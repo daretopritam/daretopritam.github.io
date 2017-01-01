@@ -1,0 +1,41 @@
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="pritamb.xyz" resolutions="1x" timestamp="1483289284076">
+  <folder name="css">
+    <file name="site_global.css" crc="192504423"/>
+    <file name="master_a-master.css" crc="3875042261" ref="index"/>
+    <file name="index.css" crc="419185937" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="food.png" crc="533993257" seo="true" mt="1482911619000"/>
+    <file name="rice.png" crc="231773215" seo="true" mt="1482912463000"/>
+    <file name="coffee-cup.png" crc="393483570" seo="true" mt="1482912463000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index"/>
+    <file name="museutils.js" crc="4155826306" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="483509463" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4034513494" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3765356681" ref="index"/>
+    <file name="jquery.watch.js" crc="117772946" ref="index"/>
+    <file name="webpro.js" crc="4078243563" ref="index"/>
+    <file name="musewpdisclosure.js" crc="3802586038" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="228336483" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="logo-normal.png" crc="373969352" ref="index"/>
+    <file name="logo-touch.png" crc="33736168" ref="index"/>
+    <file name="22520129_l.png" crc="4114400671" seo="true" ref="index"/>
+    <file name="af47ac8d-864a-439b-8d79-9cd628afe2a4.gif" crc="394307472" ref="index"/>
+    <file name="head-normal.png" crc="4271940025" ref="index"/>
+    <file name="head-yolo.png" crc="4120011395" ref="index"/>
+    <file name="arrow-up-.png" crc="116736776" seo="true" ref="index"/>
+    <file name="facebook.png" crc="4096049631" seo="true" ref="index"/>
+    <file name="instagram.png" crc="201048634" seo="true" ref="index"/>
+    <file name="linkedin.png" crc="11907970" seo="true" ref="index"/>
+    <file name="twitter.png" crc="258254690" seo="true" ref="index"/>
+    <file name="seigaiha.png" crc="369090253" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3824298817" seo="true" mt="1483289224074" redirect="true"/>
+</manifest>
